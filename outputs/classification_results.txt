@@ -1,0 +1,4 @@
+=== DATAFRAME PIPELINE RESULTS ===
+Accuracy: 0.6338
+
+Sample Predictions:
