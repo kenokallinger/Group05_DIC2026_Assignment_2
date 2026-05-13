@@ -1,0 +1,8 @@
+FAST SVM TEXT CLASSIFICATION REPORT
+
+Validation F1: 0.6654
+Test F1: 0.6646
+
+Best Parameters:
+regParam = 0.01
+maxIter = 100

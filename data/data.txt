@@ -1,4 +1,0 @@
-Use these 2 files in to this Folder 
-
-reviews_devset.json
-│   └── stopwords.txt

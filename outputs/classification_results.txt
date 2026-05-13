@@ -1,4 +1,13 @@
-=== DATAFRAME PIPELINE RESULTS ===
-Accuracy: 0.6338
+SVM TEXT CLASSIFICATION REPORT
 
-Sample Predictions:
+=== 2000 FEATURES ===
+Validation F1: 0.6654
+Test F1: 0.6646
+
+=== 500 FEATURES ===
+Test F1: 0.5506
+
+=== BEST MODEL ===
+regParam: 0.01
+maxIter: 100
+CV F1: 0.6540
